@@ -1521,7 +1521,7 @@ pub async fn racing_race_id_race_get(configuration: &configuration::Configuratio
 
     let local_var_client = &local_var_configuration.client;
 
-    let local_var_uri_str = format!("{}/racing/{raceId}/race", local_var_configuration.base_path, id=id);
+    let local_var_uri_str = format!("{}/racing/{raceId}/race", local_var_configuration.base_path, raceId=id);
     let mut local_var_req_builder = local_var_client.request(reqwest::Method::GET, local_var_uri_str.as_str());
 
     local_var_req_builder = local_var_req_builder.query(&[("key", &key.to_string())]);
