@@ -1,0 +1,11 @@
+# PersonalStatsTravelPopular
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**travel** | Option<[**models::PersonalStatsTravelPopularTravel**](PersonalStatsTravelPopular_travel.md)> |  | [optional]
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

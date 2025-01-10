@@ -1,0 +1,20 @@
+# PersonalStatsAttackingPopularAttacking
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**attacks** | Option<[**models::PersonalStatsAttackingPopularAttackingAttacks**](PersonalStatsAttackingPopular_attacking_attacks.md)> |  | [optional]
+**defends** | Option<[**models::PersonalStatsAttackingPopularAttackingDefends**](PersonalStatsAttackingPopular_attacking_defends.md)> |  | [optional]
+**elo** | Option<**i32**> |  | [optional]
+**escapes** | Option<[**models::PersonalStatsAttackingPublicAttackingEscapes**](PersonalStatsAttackingPublic_attacking_escapes.md)> |  | [optional]
+**killstreak** | Option<[**models::PersonalStatsAttackingPublicAttackingKillstreak**](PersonalStatsAttackingPublic_attacking_killstreak.md)> |  | [optional]
+**hits** | Option<[**models::PersonalStatsAttackingPublicAttackingHits**](PersonalStatsAttackingPublic_attacking_hits.md)> |  | [optional]
+**damage** | Option<[**models::PersonalStatsAttackingPublicAttackingDamage**](PersonalStatsAttackingPublic_attacking_damage.md)> |  | [optional]
+**networth** | Option<[**models::PersonalStatsAttackingPublicAttackingNetworth**](PersonalStatsAttackingPublic_attacking_networth.md)> |  | [optional]
+**ammunition** | Option<[**models::PersonalStatsAttackingPublicAttackingAmmunition**](PersonalStatsAttackingPublic_attacking_ammunition.md)> |  | [optional]
+**faction** | Option<[**models::PersonalStatsAttackingPopularAttackingFaction**](PersonalStatsAttackingPopular_attacking_faction.md)> |  | [optional]
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

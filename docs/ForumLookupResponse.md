@@ -1,0 +1,11 @@
+# ForumLookupResponse
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**selections** | Option<[**Vec<models::ForumSelectionName>**](ForumSelectionName.md)> |  | [optional]
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
