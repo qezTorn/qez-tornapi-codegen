@@ -21,7 +21,7 @@ pub struct FactionCrimeSlotUser {
     pub joined_at: Option<i32>,
     /// Current planning progress on the slot.
     #[serde(rename = "progress", skip_serializing_if = "Option::is_none")]
-    pub progress: Option<i32>,
+    pub progress: Option<f32>,
 }
 
 impl FactionCrimeSlotUser {
