@@ -1,6 +1,6 @@
 [package]
 name = "qeztorncodegen"
-version = "2.0.0"
+version = "2.0.1"
 authors = ["OpenAPI Generator team and contributors"]
 description = "  * The development of Torn's API v2 is still ongoing.  * If selections remain unaltered, they will default to the API v1 version.  * Unlike API v1, API v2 accepts both selections and IDs as path and query parameters.  * If any discrepancies or errors are found, please submit a [bug report](https://www.torn.com/forums.php#/p=forums&f=19&b=0&a=0) on the Torn Forums."
 # Override this license by providing a License Object in the OpenAPI.
